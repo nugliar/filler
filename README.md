@@ -1,13 +1,18 @@
 # filler
 Logical PvP game, a.k.a. modified Tetris
 
+## What is does?
 Purpose of the project is to create a filler player that can beat 
-given list of default players (can be found in "./players" directory).
+given list of default players (can be found in ```./players``` directory).
 
-This player is named as "rsharipo.filler".
 
+## Instructions
+This player is named as ```rsharipo.filler```.
 1st player's tetriminos are represented with "O" characters.
 2nd player's tetriminos are represented with "X" characters.
+
+## Compilation
+```make```
 
 ```
 Usage: ./filler_vm -f path [-i | -p1 path | -p2 path] [-s | -q | -t time]
