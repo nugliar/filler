@@ -8,7 +8,9 @@ given list of default players (can be found in ```./players``` directory).
 
 ### Instructions
 This player is named as ```rsharipo.filler```.
+
 1st player's tetriminos are represented with "O" characters.
+
 2nd player's tetriminos are represented with "X" characters.
 
 ### Compilation
