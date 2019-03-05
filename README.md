@@ -1,7 +1,7 @@
 # filler
 Logical PvP game, a.k.a. modified Tetris
 
-### What is does?
+### What it does?
 Purpose of the project is to create a filler player that can beat 
 given list of default players (can be found in ```./players``` directory).
 
